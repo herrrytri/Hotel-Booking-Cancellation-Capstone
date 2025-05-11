@@ -17,11 +17,7 @@ To help hotels anticipate booking cancellations so they can optimize room availa
 
 ## Files
 - `capstone_hotel_booking.ipynb`: full analysis & modeling notebook
-- `rf_model_final.pkl`: serialized model (can be reused)
-- `video_link.txt`: contains the presentation video link (also below)
-
-## Presentation Video
-https://drive.google.com/file/d/1X_zbKwHlurqP-6IPdPXuOSlGMn3s5SV3/view?usp=sharing
+- `Hotel_Booking_Demand.pkl`: serialized model (can be reused)
 
 ## Tools & Libraries
 - Python, Pandas, Scikit-Learn, Matplotlib
