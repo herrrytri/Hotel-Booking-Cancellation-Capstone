@@ -1,4 +1,4 @@
-# Hotel-Booking-Cancellation-Capstone
+# Hotel Booking Cancellation
 Capstone Project - Predicting Hotel Booking Cancellations using Machine Learning
 
 This repository contains the end-to-end analysis and machine learning model to predict hotel booking cancellations.
