@@ -23,6 +23,6 @@ To help hotels anticipate booking cancellations so they can optimize room availa
 ## Presentation Video
 https://drive.google.com/file/d/1X_zbKwHlurqP-6IPdPXuOSlGMn3s5SV3/view?usp=sharing
 
-##  Tools & Libraries
+## Tools & Libraries
 - Python, Pandas, Scikit-Learn, Matplotlib
 - Jupyter Notebook
