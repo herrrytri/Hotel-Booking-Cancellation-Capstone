@@ -16,7 +16,7 @@ To help hotels anticipate booking cancellations so they can optimize room availa
   - Precision: 0.71
 
 ## Files
-- `capstone_hotel_booking.ipynb`: full analysis & modeling notebook
+- `Capstone Project 3.ipynb`: full analysis & modeling notebook
 - `Hotel_Booking_Demand.pkl`: serialized model (can be reused)
 
 ## Tools & Libraries
